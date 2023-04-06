@@ -1,10 +1,10 @@
---Select *
---From [Portfolio project]..CovidVaccinations$ 
---order by 3,4
+Select *
+From [Portfolio project]..CovidVaccinations$ 
+order by 3,4
 
---Select *
---from [Portfolio project]..CovidDeaths
---order by 3,4
+Select *
+from [Portfolio project]..CovidDeaths
+order by 3,4
 
 --select Data that we will be using
 
